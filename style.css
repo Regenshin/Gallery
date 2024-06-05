@@ -7,13 +7,14 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    overflow-x: hidden;
+    
     
 }
 
 .gallery {
     width: 100%;
     position: relative;
+    overflow-x: hidden;
 }
 
 .gallery-container {
